@@ -9,6 +9,7 @@ objectives:
 Visualize the sentiment distribution and word
 frequencies using word clouds.
 Tools: Python, nltk, TextBlob, pandas, matplotlib.
+Description: Perform sentiment analysis on textual data (e.g., customer reviews, social media comments) to classify text as positive, negative, or neutral.
 
 outcomes :
-Analyze the Results Sentiment Score Distribution: The histogram will show you how the sentiments are distributed across your dataset. Word Clouds: The word clouds will help you visualize the most common words associated with positive and negative sentiments.
+Analyze the Results Sentiment Score Distribution: The histogram will show you how the sentiments are distributed across your dataset. Word Clouds: The word clouds will help you visualize the most common words associated with positive and negative feelings.
